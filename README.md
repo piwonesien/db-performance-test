@@ -11,3 +11,6 @@ PHP ist in erster Linie bekannt dafür besonders langsam zu sein. Meine Überleg
 
 ## Ergebnisse:
 Auf meiner Apache-Maschine benötigt Apache (XAMPP) bei einer solchen Abfrage etwa 20-40MB RAM. Die Anfrage dauert zwischen 0,2 bis 0,5 Sekunden.
+
+## Hinweis Datensätze:
+Die Daten sind natürlich reine Fantasy-Daten von https://www.mockaroo.com/ Da man dort aber nur max. 1000 Datensätze bekommt, habe ich diese einfach solange dupliziert, bis ich auf die 2 Millionen Einträge gekommen bin. Aus diesem Grund liefert die Suche sehr häufig doppelte Einträge. Anhand der ID sollte aber ersichtlich sein, dass es sich hierbei um unterschiedliche Datensätze handelt. 
